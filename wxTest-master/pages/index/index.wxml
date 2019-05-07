@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<lbt/>
+<LinkList/>
+<view class="tr">
+<image src="/images/cd.jpg" 
+style="width: 358px;" mode ="widthFix"></image>
+</view>
